@@ -1,5 +1,5 @@
-# 💫 About Me:
-I'm currently working on a fullstack course by fullstackopen.com<br>I'm trying to build more and more projects to get a better understanding of the web development area
+# 🧑‍💻 About Me:
+I'm currently working on a fullstack course by fullstackopen.com ⚡<br>I'm trying to build more and more projects to get a better understanding of the web development area 📳
 
 
 ## 🌐 Socials:
@@ -18,7 +18,5 @@ I'm currently working on a fullstack course by fullstackopen.com<br>I'm trying t
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=NotTheJerry&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=NotTheJerry&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
