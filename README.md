@@ -1,5 +1,5 @@
 # 🧑‍💻 About Me:
-I'm currently working on a fullstack course by fullstackopen.com ⚡<br>I'm trying to build more and more projects to get a better understanding of the web development area 📳
+<br>I'm trying to build more and more projects to get a better understanding of the web development area 📳⚡
 
 
 ## 🌐 Socials:
