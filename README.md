@@ -1,7 +1,5 @@
-# 🧑‍💻 About Me:
-I'm a passionate computer engineering student, always eager to learn and build projects that challenge me to grow as a developer 🚀⚡
-
-  # 📊 GitHub Stats:
+  <img align="center" src="![image](https://github.com/user-attachments/assets/adccd575-ae9e-4a48-be1b-a652e6f7fb64)">
+ 
   <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=NotTheJerry&theme=dark&hide_border=false&include_all_commits=false&count_private=false">
   </p>
