@@ -1,4 +1,4 @@
-  ![michael-tenebrae-tokyo-rain](https://github.com/user-attachments/assets/74545e12-8eab-45b4-b189-461135f918cf)
+  ![w](https://github.com/user-attachments/assets/10663fdd-f42e-4659-bd68-4333da087765)
  
   <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=NotTheJerry&theme=dark&hide_border=false&include_all_commits=false&count_private=false">
