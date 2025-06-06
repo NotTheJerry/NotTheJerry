@@ -2,7 +2,9 @@
 I'm a passionate computer engineering student, always eager to learn and build projects that challenge me to grow as a developer 🚀⚡
 
   # 📊 GitHub Stats:
-  ![](https://github-readme-stats.vercel.app/api?username=NotTheJerry&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>  
+  <p align="center">
+    ![](https://github-readme-stats.vercel.app/api?username=NotTheJerry&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>  
+  </p>
   ![](https://nirzak-streak-stats.vercel.app/?user=NotTheJerry&theme=dark&hide_border=false)<br/>
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NotTheJerry&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
  
